@@ -1,4 +1,4 @@
-# HI my name is Alberto
+# Hi my name is Alberto
 
 I’m
 Aspiring Full Stack Developer | Currently learning @ Full-Stack Developement
