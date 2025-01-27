@@ -1,7 +1,7 @@
 # Hello 👋 my name is Alberto
 
 I’m
-Aspiring Full Stack Developer | Currently learning @ Full-Stack Developement
+Jr Full Stack Developer | Currently learning @ Full-Stack Developement
 
 🔭 I’m diving deep into HTML5, CSS, JavaScript, TypeScript, React, Node.js
 
