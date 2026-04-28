@@ -1,4 +1,4 @@
-# Hello 👋 my name is Alberto
+# Hello 👋
 
 I’m
 Retail Trader, Astrologer and Jr Full Stack Developer
