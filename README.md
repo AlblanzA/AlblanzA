@@ -1,7 +1,6 @@
-# Hello 👋
+# Ciao! 👋
 
-I’m
-Retail Trader, Astrologer and Jr Full Stack Developer
+I’m Retail Trader, Astrologer and Jr Full Stack Developer
 
 🧠 Always learning and experimenting with new tech
 
@@ -9,6 +8,4 @@ Retail Trader, Astrologer and Jr Full Stack Developer
 
 ✉️ Reach me at lanzafamea2001@gmail.com
 
-⚡ Curious mind | Tech enthusiast | Investing Enthusiast
-
-🥠 “Every expert was once a beginner.”
+⚡ Curious mind | Tech enthusiast | Investing Enthusiast 
