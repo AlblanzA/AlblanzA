@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alberto Nicola Lanzafame
+# Alberto Lanzafame
 
 ###  Retail Trader | Astrologer | Jr Fullstack Developer
 
