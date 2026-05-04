@@ -2,7 +2,7 @@
 
 # Alberto Nicola Lanzafame
 
-### Astrologer | Retail Trader | Jr Fullstack Developer
+###  Retail Trader | Astrologer | Jr Fullstack Developer
 
 [![Email](https://img.shields.io/badge/email-astrotraderproapp%40gmail.com-E8C96A?style=flat-square)](mailto:astrotraderproapp@gmail.com) [![Location](https://img.shields.io/badge/Italy-Palermo-5DCAA5?style=flat-square)]() [![Focus](https://img.shields.io/badge/focus-FinTech_%2B_Astrology-9B7BC4?style=flat-square)]()
 
