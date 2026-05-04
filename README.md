@@ -14,7 +14,7 @@
 
 Three disciplines, two decades of practice.
 
-**Financial astrology (20 years).** Study and applied practice in the lineage of Gann, Bradley, Ebertin, Merriman, Meridian and Crawford.
+**Astrology (20 years).** Study and applied practice in the lineage of Gann, Bradley, Ebertin, Merriman, Meridian and Crawford.
 
 **Retail trading (10 years).** Active practitioner of futures, forex and equities, focused on cycle analysis and macro positioning.
 
