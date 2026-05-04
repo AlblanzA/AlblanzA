@@ -18,7 +18,7 @@ Three disciplines, two decades of practice.
 
 **Retail trading (10 years).** Active practitioner of futures, forex and equities, focused on cycle analysis and macro positioning.
 
-**Software engineering (1 year).** Junior fullstack developer specialized in Python backends, HTML/JavaScript frontends and cross-platform mobile via Capacitor.
+**Junior fullstack developer(1 year).** Junior fullstack developer specialized in Python backends, HTML/JavaScript frontends and cross-platform mobile via Capacitor.
 
 I build tools I would want to use myself.
 
